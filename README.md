@@ -10,6 +10,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 Link to website is posted below.
+
 https://parmbir21.github.io/Horiseon-HW/Develop/
 
 ![alt text](Assets/HoriseonMainPage.png)
